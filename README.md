@@ -1,3 +1,7 @@
+### This repository has been moved to the WinterhavenMC organization
+
+https://github.com/winterhavenmc/SpawnStar
+
 # SpawnStar
 
 A configurable item that serves as a physical replacement for the /spawn command. In my survival world, I felt that the /spawn command was too easy. But my players really wanted to be able to return to spawn easily. So I made this plugin as a compromise. Now, players need to buy SpawnStars from shops before venturing out into the wilderness if they want to be able to teleport back to the world spawn. Also, players would sometimes get stuck in the nether, so I made a configurable option to allow a SpawnStar to return the player to the overworld spawn from the nether or end world.
